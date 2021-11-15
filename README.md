@@ -4,6 +4,7 @@ This repositories contains implementation Naive DQN, Dueling DQN, Prioritized Ex
 We obatin our best score of 834 via PER+DDQN+Transfer Learning, and the corresponding weights is stored in best.weights. You can play with it in `./best.ipynb`
 
 ![](result.png)
+![](compare.png)
 
 # Getting Started
 
