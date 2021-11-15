@@ -14,10 +14,10 @@ You can install our environments with
 pip install -r requirements.txt
 ```
 
-Go into any directory you want to play with(e.g. `./per_dqn_transfer`)
+Go into any directory you want to play with(e.g. `./per_ddqn_transfer`)
 
 ```bash
-cd per-dqn-transfer
+cd per_ddqn_transfer
 ```
 
 And run
